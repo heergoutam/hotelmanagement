@@ -1,0 +1,2 @@
+icon/Dashboard.gif filter=lfs diff=lfs merge=lfs -text
+lib/Hotel[[:space:]]Management[[:space:]]System.jar filter=lfs diff=lfs merge=lfs -text
