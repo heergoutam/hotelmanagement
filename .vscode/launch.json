@@ -1,0 +1,153 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Splash",
+        "request": "launch",
+        "mainClass": "Splash",
+        "projectName": "hotelmanagement_d3c3bceb"
+      },
+      {
+        "type": "java",
+        "name": "CheckOut",
+        "request": "launch",
+        "mainClass": "CheckOut",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "UpdateRoom",
+        "request": "launch",
+        "mainClass": "UpdateRoom",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "UpdateCheck",
+        "request": "launch",
+        "mainClass": "UpdateCheck",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "PickUP",
+        "request": "launch",
+        "mainClass": "PickUP",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "SearchRoom",
+        "request": "launch",
+        "mainClass": "SearchRoom",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "NewCust",
+        "request": "launch",
+        "mainClass": "NewCust",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "CustomerInfo",
+        "request": "launch",
+        "mainClass": "CustomerInfo",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "ManagerInfo",
+        "request": "launch",
+        "mainClass": "ManagerInfo",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "EmployeeInfo",
+        "request": "launch",
+        "mainClass": "EmployeeInfo",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "Department",
+        "request": "launch",
+        "mainClass": "Department",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "Rooms",
+        "request": "launch",
+        "mainClass": "Rooms",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "Login2",
+        "request": "launch",
+        "mainClass": "Login2",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "AddDriver",
+        "request": "launch",
+        "mainClass": "AddDriver",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "AddEmployee",
+        "request": "launch",
+        "mainClass": "AddEmployee",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "AddRooms",
+        "request": "launch",
+        "mainClass": "AddRooms",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "Admin",
+        "request": "launch",
+        "mainClass": "Admin",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "Dashboard",
+        "request": "launch",
+        "mainClass": "Dashboard",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "Login",
+        "request": "launch",
+        "mainClass": "Login",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "Reception",
+        "request": "launch",
+        "mainClass": "Reception",
+        "projectName": "Hotel Management System_fedf1368"
+      },
+      {
+        "type": "java",
+        "name": "Splash",
+        "request": "launch",
+        "mainClass": "Splash",
+        "projectName": "Hotel Management System_fedf1368"
+      }
+    ]
+  }
+  
